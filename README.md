@@ -28,7 +28,7 @@ You can now [join our Slack community!](http://cachethq-slack.herokuapp.com)
 
 ## Requirements
 
-- PHP 7.1 or later
+- PHP 7.1.3 - 7.3
 - HTTP server with PHP support (eg: Apache, Nginx, Caddy)
 - [Composer](https://getcomposer.org)
 - A supported database: MySQL, PostgreSQL or SQLite
@@ -70,6 +70,4 @@ A professional **installation service** is offered by Alt Three Services Limited
 
 ## Sponsorship
 
-Thank you to the following for [sponsoring](https://patreon.com/jbrooksuk) Cachet.
-
-[![Exascale](/docs/images/sponsorships/exascale.jpg)](https://www.exascale.co.uk/)
+You can sponsor Cachet at our [Patreon page](https://patreon.com/jbrooksuk).
